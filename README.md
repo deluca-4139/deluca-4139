@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning about **containerization with Kubernetes.**
 
+- I speak 🇺🇸 English and 🇯🇵 Japanese. 
+
 - ⚡ Fun fact: **I've been playing cello for over 10 years!**
 
 <br>
