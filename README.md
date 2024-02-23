@@ -4,7 +4,7 @@
 
 - 🖥️ I have professional experience with **React and TypeScript** on the frontend, and **Linux systems administration** on the backend.
 
-- 🔭 I’m currently working on **Neon POS registration automation with Go and Svelte.**
+- 🔭 I’m currently working on [Neon POS registration automation](https://github.com/deluca-4139/neon-registration-kiosk-server) with **Go and Svelte.**
 
 - 🌱 I’m currently learning about **containerization with Kubernetes.**
 
